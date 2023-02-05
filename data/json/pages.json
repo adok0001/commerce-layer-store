@@ -11,7 +11,7 @@
                 "src": "https://res.cloudinary.com/commercelayer/image/upload/f_auto/v1658318039/demo-store/assets/all-over-print-backpack-white-front.jpg",
                 "alt": "Space for everything"
               },
-              "title": "Space for everything",
+              "title": "Space for all things",
               "description": "Our backpack collection has been designed to meet the needs of all kinds of people, from urban city-dwellers to outdoor adventurers.",
               "linkLabel": "Shop here",
               "linkHref": "/search/bags"
@@ -21,7 +21,7 @@
                 "src": "https://res.cloudinary.com/commercelayer/image/upload/f_auto/v1658318039/demo-store/assets/all-over-print-backpack-white-front.jpg",
                 "alt": "Space for everything"
               },
-              "title": "Space for everything",
+              "title": "Space for anything",
               "description": "Our backpack collection has been designed to meet the needs of all kinds of people, from urban city-dwellers to outdoor adventurers.",
               "linkLabel": "Shop here",
               "linkHref": "/search/bags"
@@ -79,7 +79,7 @@
                 "alt": "Home living collection"
               },
               "title": "Home living collection",
-              "description": "Our home living collection has been designed to meet the needs of all kinds of people.",
+              "description": "Our stupendous home living collection has been designed to meet the needs of all kinds of people.",
               "linkLabel": "Discover now",
               "linkHref": "/search/home-and-living"
             }
